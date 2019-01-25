@@ -1,4 +1,7 @@
 # Productivity Tools
 
-These are some productivity tools that are useful for a lot of different scenarios. Written to work with older versions of Java at the expense of a less pretty GUI.
+DataEntryRobot - Copies data from a .csv file and types it in order into any GUI that has tab over functionality
+
+SearchFiles - Searches any text-based file with the defined filetype and within the defined directory for a string
+
 
